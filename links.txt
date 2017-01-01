@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/5967322/calling-a-php-function-from-an-html-form-in-the-same-file
+
